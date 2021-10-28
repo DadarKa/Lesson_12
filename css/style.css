@@ -177,7 +177,6 @@ body {
   transform: translate(100%, 0);
 }
 .car {
-  width: 100%;
   transform: translate(0, 5%);
 }
 .car::before {
